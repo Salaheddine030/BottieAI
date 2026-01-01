@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot-runner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
+    "discord.js": "^14.14.1"
+  }
+}
